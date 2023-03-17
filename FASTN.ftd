@@ -1,5 +1,4 @@
 -- import: fastn
 
--- fastn.package: fifthtry.github.io/type-doc
-download-base-url: https://raw.githubusercontent.com/fifthtry/type-doc/main
+-- fastn.package: fifthtry.github.io/fastn-io-typography
 
