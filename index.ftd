@@ -7,14 +7,14 @@
 
 
 -- ftd.type heading-hero-mobile:
-line-height.em: 1.5
+line-height.em: 1.2
 size.rem: 2
 letter-spacing.px: 0
 weight: 700
 font-family: $inter-assets.fonts.Inter
 
 -- ftd.type heading-hero-desktop:
-line-height.em: 1.5
+line-height.em: 1.2
 size.rem: 3
 letter-spacing.px: 0
 weight: 700
