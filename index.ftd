@@ -7,8 +7,8 @@
 
 
 -- ftd.type heading-hero-mobile:
-line-height.px: 60
-size.px: 52
+line-height.em: 1.5
+size.rem: 2
 letter-spacing.px: 0
 weight: 700
 font-family: $inter-assets.fonts.Inter
@@ -29,8 +29,8 @@ mobile: $heading-hero-mobile
 
 
 -- ftd.type heading-large-mobile:
-line-height.px: 48
-size.px: 40
+line-height.em: 1.5
+size.rem: 1.75
 letter-spacing.px: 0
 weight: 700
 font-family: $inter-assets.fonts.Inter
@@ -51,8 +51,8 @@ mobile: $heading-large-mobile
 
 
 -- ftd.type heading-medium-mobile:
-line-height.px: 44
-size.px: 32
+line-height.em: 1.5
+size.rem: 1.5
 letter-spacing.px: 0
 weight: 600
 font-family: $inter-assets.fonts.Inter
@@ -66,13 +66,13 @@ weight: 600
 
 -- ftd.responsive-type heading-medium:
 desktop: $heading-medium-desktop
-mobile: $heading-medium-mobile
+;; mobile: $heading-medium-mobile
 
 
 
 -- ftd.type heading-small-mobile:
-line-height.px: 36
-size.px: 24
+line-height.em: 1.5
+size.rem: 1.25
 letter-spacing.px: 0
 weight: 500
 font-family: $inter-assets.fonts.Inter
@@ -153,7 +153,7 @@ weight: 400
 
 -- ftd.responsive-type copy-regular:
 desktop: $copy-regular-desktop
-mobile: $copy-regular-mobile
+;; mobile: $copy-regular-mobile
 
 
 
